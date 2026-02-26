@@ -1,0 +1,6 @@
+crewai
+crewai-tools
+litellm
+yfinance
+python-dotenv
+duckduckgo-search

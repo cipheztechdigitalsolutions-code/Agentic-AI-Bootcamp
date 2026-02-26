@@ -1,0 +1,15 @@
+[project]
+name = "stockpickeragent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "crewai>=1.9.3",
+    "crewai-tools>=1.9.3",
+    "duckduckgo-search>=8.1.1",
+    "litellm>=1.75.3",
+    "python-dotenv>=1.1.1",
+    "streamlit>=1.54.0",
+    "yfinance>=1.2.0",
+]
