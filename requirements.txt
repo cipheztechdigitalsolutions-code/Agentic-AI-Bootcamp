@@ -4,3 +4,4 @@ litellm
 yfinance
 python-dotenv
 duckduckgo-search
+streamlit
